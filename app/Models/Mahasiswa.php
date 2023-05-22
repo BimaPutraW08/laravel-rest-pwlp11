@@ -24,6 +24,6 @@ class Mahasiswa extends Model
         'Nim',
         'Nama',
         'Jurusan',
-        'No_hp',
+        'No_Handphone',
     ];
 }
